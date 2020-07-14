@@ -1,0 +1,23 @@
+{
+  "name": "1_hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajspeller/1_hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajspeller/1_hello_world/issues"
+  },
+  "homepage": "https://github.com/ajspeller/1_hello_world#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
